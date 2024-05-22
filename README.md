@@ -1,4 +1,4 @@
-# DevOps Directive Terraform Course
+# Terraform
 
 
 ## 01 - Evolution of Cloud + Infrastructure as Code
